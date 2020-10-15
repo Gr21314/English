@@ -21,3 +21,4 @@ Files you may be interested in:
 If you are using Python, you can easily load this file and use as a dictionary for faster performance. All the words are assigned with 1 in the dictionary.
 See [read_english_dictionary.py](read_english_dictionary.py) for example usage.
 
+[![Run on Repl.it](https://repl.it/badge/github/Gr21314/English)](https://repl.it/github/Gr21314/English)
